@@ -1,9 +1,4 @@
 import java.util.Scanner;
-/*
-Stephen Byrnes
-112519650
-Project
- */
 
 public class ConnectFour {
     private static int[][] board = new int[6][7]; //Yellow Entries = 2, Red Entries = 1
